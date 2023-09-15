@@ -6,5 +6,5 @@ fetch(url).then(function(response){
     console.log(response);
 })
 
-const x = 10+10
+const x = 20+20
 console.log(x);
